@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CardosoRodrigo07
+- 🌱 I’m currently learning Java
